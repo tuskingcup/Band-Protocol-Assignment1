@@ -1,22 +1,17 @@
 
-# Boss Baby's Revenge
+# Transaction Broadcasting and Monitoring Client
 
 ## Installation
 ### Prerequisites
 - Node.js
 - npm (Node Package Manager)
 ### Install Dependencies
-To use this module, you need to install axios and jest for testing:
+To use this module, you need to install axios:
 ```
 npm install
 ```
 
 ## Run node
 ```
-node SuperChicken
-```
-
-## Run testing
-```
-npm test
+node main
 ```
